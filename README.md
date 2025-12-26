@@ -1,12 +1,5 @@
-# Flipkart-Sales-Dashboard in excel
-Excel Sales Dashboard
 
-Perfect 👍
-Neeche **GitHub repository ke liye professional & clean description** de raha hoon. Ye **Data Analyst / Recruiter friendly** hai.
-
----
-
-## 📊 Flipkart Sales Dashboard (2024–2025)
+## 📊 Flipkart Sales Dashboard Excel (2024–2025)
 
 ### 🔍 Project Overview
 
