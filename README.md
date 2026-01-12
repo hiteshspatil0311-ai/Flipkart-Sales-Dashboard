@@ -85,14 +85,6 @@ This dashboard can be used by:
 
 ---
 
-### 🔖 Tags
-
-```
-Excel Dashboard, Data Analytics, Sales Analysis, Business Intelligence, Flipkart
-```
-
-Agar chaho to mai **README.md file ready format**, ya **GitHub repo name suggestion**, ya **commit message** bhi bana dunga 👍
-
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/hiteshspatil0311-ai/Flipkart-Sales-Dashboard/blob/main/Dashbord.png.png)
